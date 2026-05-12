@@ -46,6 +46,9 @@ Execute Schema Scripts: Run the provided SQL files to generate the tables and po
 
 Validate Links: Test the relational connections by querying data across both the Business and Inventory modules.
 
+<img width="1086" height="630" alt="image" src="https://github.com/user-attachments/assets/1b7b9291-fa56-41e1-b49d-098acd8e1e8c" />
+
+
 About the Author
 Mohamed A. Bakhet Bachelor of Science in Business Analytics and Information Systems University of South Florida (USF)
 
